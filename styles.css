@@ -1,3 +1,6 @@
+body{
+  background-color: #e2edff;
+}
 #about {
   background-color: white;
 }
@@ -6,6 +9,12 @@
   background-color: #e2edff;
 }
 #project {
+  background-color: #e2edff;
+}
+#informasi{
+  background-color: white;
+}
+#contact {
   background-color: #e2edff;
 }
 .nav:hover {
