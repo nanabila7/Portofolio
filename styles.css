@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #e2edff;
 }
 #about {
@@ -6,17 +6,12 @@ body{
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
 }
-#project {
-  background-color: #e2edff;
-}
-#informasi{
+
+#informasi {
   background-color: white;
 }
-#contact {
-  background-color: #e2edff;
-}
+
 .nav:hover {
   background-color: white;
   color: #0d6efd !important;
